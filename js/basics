@@ -1,0 +1,4 @@
+What is the difference between var and let?
+let is block scoped. var is function or global scoped. 
+var tolerates redeclarations. let gives error
+https://javascript.info/var
